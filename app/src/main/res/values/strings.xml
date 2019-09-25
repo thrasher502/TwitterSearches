@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<resources>
+
+    <string name="queryText">Enter your search query here</string>
+    <string name="tagText">Enter tag here</string>
+    <string name="saveDescr">This button saves searches and tags</string>
+    <string name="taggedTextView">Tagged Searches</string>
+    <string name="app_name">Twitter Searches</string>
+    <string name="noTextAlert">Query/Tag empty.. fill in both before attempting to save</string>
+    <string name="ok">Okay</string>
+    <string name="searchURL">http://mobile.twitter.com/search/</string>
+    <string name="shareEditDeleteTitle">Share, edit, or delete the search tagged as %s</string>
+    <string name="cancel">Cancel</string>
+    <string name="shareSubject">Shares that might interest you: </string>
+    <string name="shareText">Check out this search: %s</string>
+    <string name="shareSearch">Share search to:</string>
+    <string name="confirmDelete">Do you really want to delete %s?</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="longClickItems">
+        <item>Share</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+
+</resources>
